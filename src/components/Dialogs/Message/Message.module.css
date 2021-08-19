@@ -1,0 +1,7 @@
+.message {
+    display: block;
+    width: fit-content;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}

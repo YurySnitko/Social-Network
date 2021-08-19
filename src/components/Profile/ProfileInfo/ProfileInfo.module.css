@@ -1,0 +1,15 @@
+.descriptionBlock {
+  padding: 10px;
+}
+
+.profileInfo img {
+  width: 1000px;
+}
+
+.mainPhoto {
+  max-width: 200px;
+}
+
+.contacts {
+  padding-left: 10px;
+}

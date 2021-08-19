@@ -1,0 +1,16 @@
+.sidebar {
+  color: white;
+  margin-top: 40px;
+}
+
+.sidebar span {
+  font-size: x-large;
+  
+}
+
+.container {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  padding-top: 20px;
+}
